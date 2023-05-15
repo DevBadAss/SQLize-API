@@ -84,7 +84,7 @@ The API response will be a JSON object containing the following properties:
 
 }
 
-
+```
 ## Example Response 
 
 ```json
