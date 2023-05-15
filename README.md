@@ -128,4 +128,10 @@ Body:
 ```php
 POST /sqlize-api/?action=insert_data
 
+Body:
+{
+  "dbName": "<database name>",
+  "table": "<table name>",
+  "data": "<data object>"
+}
 ```
