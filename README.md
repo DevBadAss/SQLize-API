@@ -4,7 +4,7 @@ This is the documentation for the SQLize API, which provides functionality for i
 
 ## API Endpoint
 
-The base URL for accessing the API is http://your-domain.com/sqlize-api/. Replace your-domain.com with the actual domain where the API is hosted.
+The base URL for accessing the API is http://your-domain.com/sqlize-api/api/. Replace your-domain.com with the actual domain where the API is hosted.
 
 ## Request Format
 
